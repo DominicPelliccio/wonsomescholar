@@ -1,0 +1,17 @@
+body{
+background-color:#f4d442; 
+background-image:url(images/tile.png);}
+h1{Color: #bf382a;
+text-align: center;}
+h2{color:#bf382a;
+text-align: center;}
+li{text-align: center;}
+ul{text-align: center;}
+a{color:#701c87;
+text-align: center;}
+a:hover{color:#31b7ce;
+text-align: center;}
+div{color:#ff522b;
+	text-align: center;}
+.one{color:#e07b33;
+text-align: center;}
