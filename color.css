@@ -16,9 +16,9 @@ div{color:#ff522b;
 .one{color:#e07b33;
 text-align: center;}
 div {
-    background-color: gold ;
+    background-color: none ;
     width: 400px;
-    border: 2px solid deep purple ;
+    border: 2px solid none ;
     padding: 15px;
     margin: 50px;
 }
