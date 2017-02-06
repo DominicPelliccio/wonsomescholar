@@ -11,5 +11,13 @@ text-align: center;}
 div{color:#0033cc ;
 	text-align: center;}
 .one{color:#0033cc ;
-text-align: center;}
+	text-align: center;}
+	
+    {background-color: lightgrey;
+    width: 300px;
+    border: 25px solid red
+   ;
+    padding: 25px;
+    margin: 25px;
+}
 
